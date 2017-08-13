@@ -1,0 +1,13 @@
+#skills{
+	width: 900px;
+	height: 600px;
+	border:thin gray solid;
+}
+
+text{
+	alignment-baseline: hanging;
+	transform: translateY(5px);
+	text-anchor: middle;
+	font-family: Verdana;
+	font-size: 15px;
+}
